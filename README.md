@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-This is my [solution] (https://shinheep.github.io/Order-Summary-Component/) to the [Order summary card challenge] (https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is my [solution](https://shinheep.github.io/Order-Summary-Component/) to the [Order summary card challenge](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj) on Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## My Process
 
